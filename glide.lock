@@ -1,0 +1,10 @@
+hash: 46ccab7e15736f282cc96c15cec8507d5c54f8c6224497b54e01a268348d318c
+updated: 2017-11-03T20:04:50.996415753-04:00
+imports:
+- name: github.com/lib/pq
+  version: 017e4c14d80628353eaee677a1aeffe47a10c0dc
+  subpackages:
+  - oid
+- name: github.com/satori/go.uuid
+  version: 879c5887cd475cd7864858769793b2ceb0d44feb
+testImports: []

@@ -1,0 +1,5 @@
+package: github.com/saskcan/common
+import:
+- package: github.com/lib/pq
+- package: github.com/satori/go.uuid
+  version: ^1.1.0
